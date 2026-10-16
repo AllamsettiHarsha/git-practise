@@ -12,3 +12,6 @@ This repository is used to practice Git and GitHub.
 ## Current Progress
 Successfully connected local Git repository to GitHub.
 
+## Git Collaboration Practice
+
+Learning how to fetch and pull changes from GitHub.
