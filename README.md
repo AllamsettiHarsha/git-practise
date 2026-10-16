@@ -8,3 +8,7 @@ This repository is used to practice Git and GitHub.
 - Version control
 - Git commits
 - GitHub collaboration
+
+## Current Progress
+Successfully connected local Git repository to GitHub.
+
