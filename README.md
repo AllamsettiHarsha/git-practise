@@ -22,3 +22,9 @@ Learning how to fetch and pull changes from GitHub.
 - Developer: Harsha
 - Branching practice: feature-developer-info
 - Status: In progress
+
+
+## Contact Information
+
+- GitHub: AllamsettiHarsha
+- Purpose: Learning Git collaboration and pull requests
